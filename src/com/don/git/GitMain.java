@@ -8,6 +8,10 @@ public class GitMain {
 	public String goodbyeWorld() {
 		return "Goodbye World!";
 	}
+
+	public String experimentalMethod() {
+		return "Annyeong Saesangi!";
+	}
 	
 	public String experimentalMethod2() {
 		return "Mabuhay Mundo!";
